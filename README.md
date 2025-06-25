@@ -16,7 +16,7 @@
   </a>
 </p>
 
-# Game Programmer | Programmer
+# Game Programmer
 
 ---
 
