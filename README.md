@@ -26,8 +26,6 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ## Experiences:
 
----
-
 ### Game Programmer (2024 - Present)
 
 - Working on team project ["Fondness in Riveries"](https://github.com/rifkisetiawan0101/Fondness-In-Riveries), a second project from LadaHitam Creation, which is about a mother who takes care of her son, Arell.
