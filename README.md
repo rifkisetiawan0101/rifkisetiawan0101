@@ -2,11 +2,11 @@
   <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/rifkisetiawan3" target="_blank">
-    <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
   <a href="https://github.com/rifkisetiawan0101" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/rifkisetiawan3" target="_blank">
+    <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
   <a href="https://itch.io/profile/rstiawann" target="_blank">
     <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
