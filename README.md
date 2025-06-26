@@ -1,20 +1,20 @@
 <p align="left">
-  <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank">
+  <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/rifkisetiawan0101" target="_blank">
+  <a href="https://github.com/rifkisetiawan0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/rifkisetiawan3" target="_blank">
+  <a href="https://www.behance.net/rifkisetiawan3" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
-  <a href="https://itch.io/profile/rstiawann" target="_blank">
+  <a href="https://itch.io/profile/rstiawann" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
   </a>
-  <a href="https://instagram.com/rstiawann_" target="_blank">
+  <a href="https://instagram.com/rstiawann_" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@rstiawann" target="_blank">
+  <a href="https://youtube.com/@rstiawann" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
