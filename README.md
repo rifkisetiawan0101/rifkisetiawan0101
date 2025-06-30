@@ -32,7 +32,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 ### Game Programmer (2024 - Present)
 
 - Working on team project ["Fondness in Riveries"](https://github.com/rifkisetiawan0101/Fondness-In-Riveries), a second project from LadaHitam Creation, which is about a mother who takes care of her son, Arell.
-- Participated on team project ["Mystic Market Tycoon"](https://github.com/rifkisetiawan0101/Git-MysticMarket), a business simulation game themed around the local vibe of Indonesia's urban ghost market.
+- Participated on team project ["Mystic Market Tycoon"](https://github.com/rifkisetiawan0101/MysticMarketTycoon), a business simulation game themed around the local vibe of Indonesia's urban ghost market.
 - Participated on team project ["Cikini Ke Gondangdia"](https://github.com/rifkisetiawan0101/Cikini-Ke-Gondangdia) (Processing Java), a casual game that combines train driving simulation with parallax scrolling visuals.
 - Participated on team project "Manjad" (Construct 3), a simple yet challenging 2D platformer game, controlling Gebol climb to the top to meet up with his friends.
 
