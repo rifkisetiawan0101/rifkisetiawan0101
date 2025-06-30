@@ -7,6 +7,9 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 ---
 
 ## Connect with Me:
+
+<img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=EE4B2B&style=flat" alt="Profile Views"/>
+
 <p align="left">
   <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
