@@ -38,6 +38,9 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/c#.png" alt="c#" height="40" />
   </a>
+  <a href="https://isocpp.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/c++.png" alt="c++" height="40" />
+  </a>
   <a href="https://www.w3.org/html/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/html5.png" alt="html5" height="40" />
   </a>
