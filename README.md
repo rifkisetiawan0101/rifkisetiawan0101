@@ -107,7 +107,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   </a>
 </p>
 
-### Full Stack Developer (2024 - Present)
+### Full Stack Developer
 
-- Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok), a fourth semester final project in the Web Programming course.
-- [Personal Portfolio](https://github.com/rifkisetiawan0101/Personal-Portfolio), a third semester final project in the Web Design course.
+- Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok) (2025), a fourth semester final project in the Web Programming course.
+- [Personal Portfolio](https://github.com/rifkisetiawan0101/Personal-Portfolio) (2024), a third semester final project in the Web Design course.
