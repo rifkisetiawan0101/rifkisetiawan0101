@@ -1,3 +1,12 @@
+# _Greetings! I'm Rifki Setiawan, a Game Programmer_
+
+---
+
+As a Multimedia Student focusing on game programming, I combine technical expertise and creativity to create mesmerizing experiences. Currently, I am a D4 Digital Multimedia Engineering student at Politeknik Negeri Jakarta, with a strong commitment in bringing innovative solutions through gaming technology.
+
+---
+
+## Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -18,14 +27,6 @@
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
-
-# _Rifki Setiawan | Game Programmer_
-
----
-
-As a Multimedia Student focusing on game programming, I combine technical expertise and creativity to create mesmerizing experiences. Currently, I am a D4 Digital Multimedia Engineering student at Politeknik Negeri Jakarta, with a strong commitment in bringing innovative solutions through gaming technology.
-
----
 
 ## Software & Language:
 <p align="left">
@@ -105,3 +106,8 @@ As a Multimedia Student focusing on game programming, I combine technical expert
     <img src="https://img.youtube.com/vi/qTV3yais-3U/0.jpg" alt="Manjad YouTube Video" width="260"/>
   </a>
 </p>
+
+### Full Stack Developer (2024 - Present)
+
+- Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok), a fourth semester final project in the Web Programming course.
+- [Personal Portfolio](https://github.com/rifkisetiawan0101/Personal-Portfolio), a third semester final project in the Web Design course.
