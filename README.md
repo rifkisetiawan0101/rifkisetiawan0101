@@ -19,7 +19,7 @@
   </a>
 </p>
 
-# Game Programmer
+# _Rifki Setiawan | Game Programmer_
 
 ---
 
@@ -34,6 +34,9 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   </a>
   <a href="https://code.visualstudio.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/vs-code.png" alt="vs code" height="60" />
+  </a>
+  <a href="https://github.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/github-white.png" alt="github" height="60" />
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/csharp.png" alt="c#" height="60" />
@@ -68,9 +71,6 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="https://www.construct.net/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/construct3.png" alt="construct3" height="60" />
   </a>
-  <a href="https://github.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/github-white.png" alt="github" height="60" />
-  </a>
   <a href="https://www.figma.com/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/figma.png" alt="figma" height="60" />
   </a>
@@ -82,7 +82,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   </a>
 </p>
 
-## Experiences:
+## Projects:
 
 ### Game Programmer (2024 - Present)
 
