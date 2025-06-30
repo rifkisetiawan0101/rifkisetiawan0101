@@ -27,6 +27,58 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ---
 
+## Software & Language:
+<p align="left">
+  <a href="https://unity.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/unity-white.png" alt="unity" height="40" />
+  </a>
+  <a href="https://code.visualstudio.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/vs-code.png" alt="vs code" height="40" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/c#.png" alt="c#" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/html5.png" alt="html5" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/css3.png" alt="css3" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/js.png" alt="javascript" height="40" />
+  </a>
+  <a href="https://getbootstrap.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/bootstrap.png" alt="bootstrap" height="40" />
+  </a>
+  <a href="https://www.php.net/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/php.png" alt="php" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/mysql.png" alt="mysql" height="40" />
+  </a>
+  <a href="https://processing.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/processing.png" alt="processing" height="40" />
+  </a>
+  <a href="https://www.java.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/java.png" alt="java" height="40" />
+  </a>
+  <a href="https://www.construct.net/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/construct3.png" alt="construct3" height="40" />
+  </a>
+  <a href="https://github.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/github-white.png" alt="github" height="40" />
+  </a>
+  <a href="https://www.figma.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/figma.png" alt="figma" height="40" />
+  </a>
+  <a href="https://trello.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/trello.png" alt="trello" height="40" />
+  </a>
+  <a href="https://www.notion.so/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/notion-white.png" alt="notion" height="40" />
+  </a>
+</p>
+
 ## Experiences:
 
 ### Game Programmer (2024 - Present)
