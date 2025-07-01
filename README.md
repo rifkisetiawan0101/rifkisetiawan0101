@@ -114,3 +114,8 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 - Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok) (2025), a fourth semester final project in the Web Programming course.
 - ["Personal Portfolio"](https://github.com/rifkisetiawan0101/Personal-Portfolio) (2024), a third semester final project in the Web Design course.
+
+### Other Projects
+
+- Leading a 3D animation team project ["The Misbrew"](https://youtu.be/KhWlnyI7htA?feature=shared) (2025), a fourth semestet final project in the 3D Animation course.
+- Participated on team project ["#JagoNgobrol"](https://youtu.be/rHxLwGc80PQ?feature=shared), a fourth semester final project in the Multimedia Authoring & Scripting course. 
