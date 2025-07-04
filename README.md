@@ -37,13 +37,13 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="#"><img src="vs-code.png" alt="VS Code" height="40"/></a>
   <a href="#"><img src="github-white.png" alt="GitHub" height="40"/></a>
   <a href="#"><img src="csharp.png" alt="C#" height="40"/></a>
-  <a href="#"><img src="cpp.png" alt="C++" height="40"/></a>
+  <a href="#"><img src="c++.png" alt="C++" height="40"/></a>
   <a href="#"><img src="html5.png" alt="HTML5" height="40"/></a>
   <a href="#"><img src="css3.png" alt="CSS3" height="40"/></a>
   <a href="#"><img src="js.png" alt="JavaScript" height="40"/></a>
   <a href="#"><img src="bootstrap.png" alt="Bootstrap" height="40"/></a>
   <a href="#"><img src="tailwind.png" alt="Tailwind" height="40"/></a>
-  <a href="#"><img src="mongodb.png" alt="MongoDB" height="40"/></a>
+  <a href="#"><img src="mongoDB.png" alt="MongoDB" height="40"/></a>
   <a href="#"><img src="express.png" alt="Express.js" height="40"/></a>
   <a href="#"><img src="react.png" alt="React" height="40"/></a>
   <a href="#"><img src="node.png" alt="Node.js" height="40"/></a>
