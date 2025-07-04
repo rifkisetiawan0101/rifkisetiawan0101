@@ -110,5 +110,5 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 ### Other Projects
 
 - Leading a 3D animation team project ["The Misbrew"](https://youtu.be/KhWlnyI7htA?feature=shared) (2025), a fourth semestet final project in the 3D Animation course.
-- Participated on team project ["#JagoNgobrol"](https://youtu.be/rHxLwGc80PQ?feature=shared) (2025), a fourth semester final project in the Multimedia Authoring & Scripting course.
+- Leading a Learning Media team project ["#JagoNgobrol"](https://youtu.be/rHxLwGc80PQ?feature=shared) (2025), a fourth semester final project in the Multimedia Authoring & Scripting course.
 - Participated on team project ["Dari Ucapan, Ke Hati, dan Menjadi Rasa"](https://youtu.be/odorBME8NAI?feature=shared) (2025), a fourth semester final project in the Audio & Video Engineering course. 
