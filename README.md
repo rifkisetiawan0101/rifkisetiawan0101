@@ -32,58 +32,34 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 </p>
 
 ## Software & Language:
-<p align="left">
-  <a href="https://unity.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/unity-white.png" alt="unity" height="60" />
-  </a>
-  <a href="https://code.visualstudio.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/vs-code.png" alt="vs code" height="60" />
-  </a>
-  <a href="https://github.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/github-white.png" alt="github" height="60" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/csharp.png" alt="c#" height="60" />
-  </a>
-  <a href="https://isocpp.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/c++.png" alt="c++" height="60" />
-  </a>
-  <a href="https://www.w3.org/html/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/html5.png" alt="html5" height="60" />
-  </a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/css3.png" alt="css3" height="60" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/js.png" alt="javascript" height="60" />
-  </a>
-  <a href="https://getbootstrap.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/bootstrap.png" alt="bootstrap" height="60" />
-  </a>
-  <a href="https://www.php.net/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/php.png" alt="php" height="60" />
-  </a>
-  <a href="https://www.mysql.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/mysql.png" alt="mysql" height="60" />
-  </a>
-  <a href="https://processing.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/processing.png" alt="processing" height="60" />
-  </a>
-  <a href="https://www.java.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/java.png" alt="java" height="60" />
-  </a>
-  <a href="https://www.construct.net/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/construct3.png" alt="construct3" height="60" />
-  </a>
-  <a href="https://www.figma.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/figma.png" alt="figma" height="60" />
-  </a>
-  <a href="https://trello.com/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/trello.png" alt="trello" height="60" />
-  </a>
-  <a href="https://www.notion.so/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/rifkisetiawan0101/rifkisetiawan0101/main/notion-white.png" alt="notion" height="60" />
-  </a>
+<p align="center">
+  <a href="#"><img src="/Image/unity-white.png" alt="Unity" height="40"/></a>
+  <a href="#"><img src="/Image/vs-code.png" alt="VS Code" height="40"/></a>
+  <a href="#"><img src="/Image/github-white.png" alt="GitHub" height="40"/></a>
+  <a href="#"><img src="/Image/csharp.png" alt="C#" height="40"/></a>
+  <a href="#"><img src="/Image/cpp.png" alt="C++" height="40"/></a>
+  <a href="#"><img src="/Image/html5.png" alt="HTML5" height="40"/></a>
+  <a href="#"><img src="/Image/css3.png" alt="CSS3" height="40"/></a>
+  <a href="#"><img src="/Image/js.png" alt="JavaScript" height="40"/></a>
+  <a href="#"><img src="/Image/bootstrap.png" alt="Bootstrap" height="40"/></a>
+  <a href="#"><img src="/Image/tailwind.png" alt="Tailwind" height="40"/></a>
+  <a href="#"><img src="/Image/mongodb.png" alt="MongoDB" height="40"/></a>
+  <a href="#"><img src="/Image/express.png" alt="Express.js" height="40"/></a>
+  <a href="#"><img src="/Image/react.png" alt="React" height="40"/></a>
+  <a href="#"><img src="/Image/node.png" alt="Node.js" height="40"/></a>
+  <a href="#"><img src="/Image/next.png" alt="Next.js" height="40"/></a>
+  <a href="#"><img src="/Image/php.png" alt="PHP" height="40"/></a>
+  <a href="#"><img src="/Image/mysql.png" alt="MySQL" height="40"/></a>
+  <a href="#"><img src="/Image/vercel.png" alt="Vercel" height="40"/></a>
+  <a href="#"><img src="/Image/railway.png" alt="Railway" height="40"/></a>
+  <a href="#"><img src="/Image/phyton.png" alt="Python" height="40"/></a>
+  <a href="#"><img src="/Image/notion-white.png" alt="Notion" height="40"/></a>
+  <a href="#"><img src="/Image/trello.png" alt="Trello" height="40"/></a>
+  <a href="#"><img src="/Image/figma.png" alt="Figma" height="40"/></a>
+  <a href="#"><img src="/Image/wordpress.png" alt="WordPress" height="40"/></a>
+  <a href="#"><img src="/Image/construct3.png" alt="Construct 3" height="40"/></a>
+  <a href="#"><img src="/Image/java.png" alt="Java" height="40"/></a>
+  <a href="#"><img src="/Image/processing.png" alt="Processing" height="40"/></a>
 </p>
 
 ## Projects:
