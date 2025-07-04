@@ -44,7 +44,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="#"><img src="css3.png" alt="CSS3" style="height:80px;"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Baris 2 -->
   <a href="#"><img src="js.png" alt="JavaScript" style="height:80px;"/></a>
   <a href="#"><img src="bootstrap.png" alt="Bootstrap" style="height:80px;"/></a>
@@ -55,7 +55,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="#"><img src="express.png" alt="Express.js" style="height:80px;"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Baris 3 -->
   <a href="#"><img src="next.png" alt="Next.js" style="height:80px;"/></a>
   <a href="#"><img src="php.png" alt="PHP" style="height:80px;"/></a>
@@ -66,7 +66,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="#"><img src="java.png" alt="Java" style="height:80px;"/></a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Baris 4 -->
   <a href="#"><img src="c++.png" alt="C++" style="height:80px;"/></a>
   <a href="#"><img src="processing.png" alt="Processing" style="height:80px;"/></a>
