@@ -33,33 +33,33 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ## Software & Language:
 <p align="center">
-  <a href="#"><img src="unity-white.png" alt="Unity" height="40"/></a>
-  <a href="#"><img src="vs-code.png" alt="VS Code" height="40"/></a>
-  <a href="#"><img src="github-white.png" alt="GitHub" height="40"/></a>
-  <a href="#"><img src="csharp.png" alt="C#" height="40"/></a>
-  <a href="#"><img src="c++.png" alt="C++" height="40"/></a>
-  <a href="#"><img src="html5.png" alt="HTML5" height="40"/></a>
-  <a href="#"><img src="css3.png" alt="CSS3" height="40"/></a>
-  <a href="#"><img src="js.png" alt="JavaScript" height="40"/></a>
-  <a href="#"><img src="bootstrap.png" alt="Bootstrap" height="40"/></a>
-  <a href="#"><img src="tailwind.png" alt="Tailwind" height="40"/></a>
-  <a href="#"><img src="mongoDB.png" alt="MongoDB" height="40"/></a>
-  <a href="#"><img src="express.png" alt="Express.js" height="40"/></a>
-  <a href="#"><img src="react.png" alt="React" height="40"/></a>
-  <a href="#"><img src="node.png" alt="Node.js" height="40"/></a>
-  <a href="#"><img src="next.png" alt="Next.js" height="40"/></a>
-  <a href="#"><img src="php.png" alt="PHP" height="40"/></a>
-  <a href="#"><img src="mysql.png" alt="MySQL" height="40"/></a>
-  <a href="#"><img src="vercel.png" alt="Vercel" height="40"/></a>
-  <a href="#"><img src="railway.png" alt="Railway" height="40"/></a>
-  <a href="#"><img src="phyton.png" alt="Python" height="40"/></a>
-  <a href="#"><img src="notion-white.png" alt="Notion" height="40"/></a>
-  <a href="#"><img src="trello.png" alt="Trello" height="40"/></a>
-  <a href="#"><img src="figma.png" alt="Figma" height="40"/></a>
-  <a href="#"><img src="wordpress.png" alt="WordPress" height="40"/></a>
-  <a href="#"><img src="construct3.png" alt="Construct 3" height="40"/></a>
-  <a href="#"><img src="java.png" alt="Java" height="40"/></a>
-  <a href="#"><img src="processing.png" alt="Processing" height="40"/></a>
+  <a href="#"><img src="unity-white.png" alt="Unity" height="10"/></a>
+  <a href="#"><img src="vs-code.png" alt="VS Code" height="10"/></a>
+  <a href="#"><img src="github-white.png" alt="GitHub" height="10"/></a>
+  <a href="#"><img src="csharp.png" alt="C#" height="10"/></a>
+  <a href="#"><img src="c++.png" alt="C++" height="10"/></a>
+  <a href="#"><img src="html5.png" alt="HTML5" height="10"/></a>
+  <a href="#"><img src="css3.png" alt="CSS3" height="10"/></a>
+  <a href="#"><img src="js.png" alt="JavaScript" height="10"/></a>
+  <a href="#"><img src="bootstrap.png" alt="Bootstrap" height="10"/></a>
+  <a href="#"><img src="tailwind.png" alt="Tailwind" height="10"/></a>
+  <a href="#"><img src="mongoDB.png" alt="MongoDB" height="10"/></a>
+  <a href="#"><img src="express.png" alt="Express.js" height="10"/></a>
+  <a href="#"><img src="react.png" alt="React" height="10"/></a>
+  <a href="#"><img src="node.png" alt="Node.js" height="10"/></a>
+  <a href="#"><img src="next.png" alt="Next.js" height="10"/></a>
+  <a href="#"><img src="php.png" alt="PHP" height="10"/></a>
+  <a href="#"><img src="mysql.png" alt="MySQL" height="10"/></a>
+  <a href="#"><img src="vercel.png" alt="Vercel" height="10"/></a>
+  <a href="#"><img src="railway.png" alt="Railway" height="10"/></a>
+  <a href="#"><img src="phyton.png" alt="Python" height="10"/></a>
+  <a href="#"><img src="notion-white.png" alt="Notion" height="10"/></a>
+  <a href="#"><img src="trello.png" alt="Trello" height="10"/></a>
+  <a href="#"><img src="figma.png" alt="Figma" height="10"/></a>
+  <a href="#"><img src="wordpress.png" alt="WordPress" height="10"/></a>
+  <a href="#"><img src="construct3.png" alt="Construct 3" height="10"/></a>
+  <a href="#"><img src="java.png" alt="Java" height="10"/></a>
+  <a href="#"><img src="processing.png" alt="Processing" height="10"/></a>
 </p>
 
 ## Projects:
