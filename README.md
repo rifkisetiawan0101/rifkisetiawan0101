@@ -32,35 +32,38 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 </p>
 
 ## Software & Language:
-<p align="center">
-  <a href="#"><img src="unity-white.png" alt="Unity" style="height:40px;"/></a>
-  <a href="#"><img src="vs-code.png" alt="VS Code" style="height:40px;"/></a>
-  <a href="#"><img src="github-white.png" alt="GitHub" style="height:40px;"/></a>
-  <a href="#"><img src="csharp.png" alt="C#" style="height:40px;"/></a>
-  <a href="#"><img src="c++.png" alt="C++" style="height:40px;"/></a>
-  <a href="#"><img src="html5.png" alt="HTML5" style="height:40px;"/></a>
-  <a href="#"><img src="css3.png" alt="CSS3" style="height:40px;"/></a>
-  <a href="#"><img src="js.png" alt="JavaScript" style="height:40px;"/></a>
-  <a href="#"><img src="bootstrap.png" alt="Bootstrap" style="height:40px;"/></a>
-  <a href="#"><img src="tailwind.png" alt="Tailwind" style="height:40px;"/></a>
-  <a href="#"><img src="mongoDB.png" alt="MongoDB" style="height:40px;"/></a>
-  <a href="#"><img src="express.png" alt="Express.js" style="height:40px;"/></a>
-  <a href="#"><img src="react.png" alt="React" style="height:40px;"/></a>
-  <a href="#"><img src="node.png" alt="Node.js" style="height:40px;"/></a>
-  <a href="#"><img src="next.png" alt="Next.js" style="height:40px;"/></a>
-  <a href="#"><img src="php.png" alt="PHP" style="height:40px;"/></a>
-  <a href="#"><img src="mysql.png" alt="MySQL" style="height:40px;"/></a>
-  <a href="#"><img src="vercel.png" alt="Vercel" style="height:40px;"/></a>
-  <a href="#"><img src="railway.png" alt="Railway" style="height:40px;"/></a>
-  <a href="#"><img src="phyton.png" alt="Python" style="height:40px;"/></a>
-  <a href="#"><img src="notion-white.png" alt="Notion" style="height:40px;"/></a>
-  <a href="#"><img src="trello.png" alt="Trello" style="height:40px;"/></a>
-  <a href="#"><img src="figma.png" alt="Figma" style="height:40px;"/></a>
-  <a href="#"><img src="wordpress.png" alt="WordPress" style="height:40px;"/></a>
-  <a href="#"><img src="construct3.png" alt="Construct 3" style="height:40px;"/></a>
-  <a href="#"><img src="java.png" alt="Java" style="height:40px;"/></a>
-  <a href="#"><img src="processing.png" alt="Processing" style="height:40px;"/></a>
-</p>
+
+<div align="center" style="background-color:#CBD5E1; border-radius:12px; padding:20px; display:inline-block;">
+
+  <a href="#"><img src="unity-white.png" alt="Unity" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="vs-code.png" alt="VS Code" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="github-white.png" alt="GitHub" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="csharp.png" alt="C#" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="c++.png" alt="C++" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="html5.png" alt="HTML5" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="css3.png" alt="CSS3" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="js.png" alt="JavaScript" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="bootstrap.png" alt="Bootstrap" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="tailwind.png" alt="Tailwind" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="mongoDB.png" alt="MongoDB" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="express.png" alt="Express.js" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="react.png" alt="React" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="node.png" alt="Node.js" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="next.png" alt="Next.js" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="php.png" alt="PHP" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="mysql.png" alt="MySQL" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="vercel.png" alt="Vercel" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="railway.png" alt="Railway" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="phyton.png" alt="Python" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="notion-white.png" alt="Notion" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="trello.png" alt="Trello" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="figma.png" alt="Figma" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="wordpress.png" alt="WordPress" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="construct3.png" alt="Construct 3" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="java.png" alt="Java" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="processing.png" alt="Processing" style="height:50px; margin:8px;"/></a>
+
+</div>
 
 ## Projects:
 
