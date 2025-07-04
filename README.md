@@ -38,7 +38,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
   <a href="#"><img src="unity-white.png" alt="Unity" style="height:50px; margin:8px;"/></a>
   <a href="#"><img src="csharp.png" alt="C#" style="height:50px; margin:8px;"/></a>
   <a href="#"><img src="vs-code.png" alt="VS Code" style="height:50px; margin:8px;"/></a>
-  <a href="#"><img src="visualstudio.png" alt="Visual Studio" style="height:50px; margin:8px;"/></a>
+  <a href="#"><img src="vs.png" alt="Visual Studio" style="height:50px; margin:8px;"/></a>
   <a href="#"><img src="github-white.png" alt="GitHub" style="height:50px; margin:8px;"/></a>
   <a href="#"><img src="html5.png" alt="HTML5" style="height:50px; margin:8px;"/></a>
   <a href="#"><img src="css3.png" alt="CSS3" style="height:50px; margin:8px;"/></a>
