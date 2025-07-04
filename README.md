@@ -33,7 +33,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ## Software & Language:
 
-<p align="center">
+<p align="left">
   <!-- Baris 1 -->
   <a href="#"><img src="unity-white.png" alt="Unity" style="height:80px;"/></a>
   <a href="#"><img src="csharp.png" alt="C#" style="height:80px;"/></a>
