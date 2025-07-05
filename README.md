@@ -10,6 +10,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 
 View my [**CV**](_CV-Rifki-Setiawan.pdf)
+For better viewing experience, I recommend you to download the file. 
 
 
 <img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=EE4B2B&style=flat" alt="Profile Views"/>
