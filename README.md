@@ -10,8 +10,8 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ## Connect with Me:
 
-View my [**CV**](https://drive.google.com/file/d/1r4FyRDfFe3ow6vpSPqLEk97f4Mk9TLhV/view?usp=sharing) | 
-[**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.vercel.app/)
+View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.vercel.app/) | 
+[**CV**](https://drive.google.com/file/d/1r4FyRDfFe3ow6vpSPqLEk97f4Mk9TLhV/view?usp=sharing)
 
 <p align="left">
   <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank" rel="noopener noreferrer">
