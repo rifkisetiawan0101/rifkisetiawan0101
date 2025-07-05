@@ -12,8 +12,6 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 View my [**CV**](https://drive.google.com/file/d/1r4FyRDfFe3ow6vpSPqLEk97f4Mk9TLhV/view?usp=sharing)
 
-_For better viewing experience, I recommend you to download the file._
-
 View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.vercel.app/)
 
 <p align="left">
