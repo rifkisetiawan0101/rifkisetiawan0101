@@ -1,5 +1,7 @@
 # _Greetings! I'm Rifki Setiawan, a Game Programmer_
 
+<img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=EE4B2B&style=flat" alt="Profile Views"/>
+
 ---
 
 As a Multimedia Student focusing on game programming, I combine technical expertise and creativity to create mesmerizing experiences. Currently, I am a D4 Digital Multimedia Engineering student at Politeknik Negeri Jakarta, with a strong commitment in bringing innovative solutions through gaming technology.
@@ -8,13 +10,11 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ## Connect with Me:
 
-
 View my [**CV**](_CV-Rifki-Setiawan.pdf)
 
 _For better viewing experience, I recommend you to download the file._
 
-
-<img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=EE4B2B&style=flat" alt="Profile Views"/>
+View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.vercel.app/)
 
 <p align="left">
   <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank" rel="noopener noreferrer">
