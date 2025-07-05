@@ -58,7 +58,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 <p align="left">
   <!-- Baris 3 -->
 <!--   <a href="#"><img src="next.png" alt="Next.js" style="height:80px;"/></a> -->
-  <a href="#"><img src="resend-white.png" alt="PHP" style="height:80px;"/></a>
+  <a href="#"><img src="resend-white.png" alt="Resend API" style="height:80px;"/></a>
   <a href="#"><img src="php.png" alt="PHP" style="height:80px;"/></a>
   <a href="#"><img src="mysql.png" alt="MySQL" style="height:80px;"/></a>
   <a href="#"><img src="vercel.png" alt="Vercel" style="height:80px;"/></a>
