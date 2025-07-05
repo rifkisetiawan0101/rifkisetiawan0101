@@ -10,6 +10,7 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 
 View my [**CV**](_CV-Rifki-Setiawan.pdf)
+
 For better viewing experience, I recommend you to download the file. 
 
 
