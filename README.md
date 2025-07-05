@@ -8,7 +8,9 @@ As a Multimedia Student focusing on game programming, I combine technical expert
 
 ## Connect with Me:
 
-View my [CV](_CV-Rifki-Setiawan.pdf)
+
+View my [*CV*](_CV-Rifki-Setiawan.pdf)
+
 
 <img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=EE4B2B&style=flat" alt="Profile Views"/>
 
