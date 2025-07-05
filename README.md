@@ -23,9 +23,9 @@ View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.ver
   <a href="https://github.com/rifkisetiawan0101" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/rifkisetiawan3" target="_blank" rel="noopener noreferrer">
+<!--   <a href="https://www.behance.net/rifkisetiawan3" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://itch.io/profile/rstiawann" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
   </a>
