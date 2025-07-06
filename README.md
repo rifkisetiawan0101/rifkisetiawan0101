@@ -107,7 +107,8 @@ View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.ver
 
 ### Full Stack Developer
 
-- Develop ["Dompet Sehat Game"](https://github.com/rifkisetiawan0101/Dompet-Sehat-Game) (2025), an interactive web-based financial literacy simulation game using MERN Stack.
+- Developed ["Web Portfolio"](https://github.com/rifkisetiawan0101/my-web-portfolio) (2025), an interactive web-based financial literacy simulation game using MERN Stack.
+- Developed ["Dompet Sehat Game"](https://github.com/rifkisetiawan0101/Dompet-Sehat-Game) (2025), an interactive web-based financial literacy simulation game using MERN Stack.
 - Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok) (2025), a fourth semester final project in the Web Programming course.
 - ["Temporary Portfolio"](https://github.com/rifkisetiawan0101/Personal-Portfolio) (2024), a third semester final project in the Web Design course.
 
