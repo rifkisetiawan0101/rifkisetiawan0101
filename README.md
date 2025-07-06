@@ -4,7 +4,7 @@
 
 ---
 
-As a Multimedia Student focusing on game programming, I combine technical expertise and creativity to create mesmerizing experiences. Currently, I am a D4 Digital Multimedia Engineering student at Politeknik Negeri Jakarta, with a strong commitment in bringing innovative solutions through gaming technology.
+Digital Multimedia Engineering student who specializes in game development (Unity/C#) and fullstack website development. Experienced in the project development cycle from idea to deployment, proven by the success of being a Top 10 Finalist in the TSA Gamefest 2024 competition. Skilled in implementing gameplay mechanics, designing backend architecture, and collaborating within technical teams to efficiently achieve project goals.
 
 ---
 
