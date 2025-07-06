@@ -38,48 +38,48 @@ View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.ver
 
 <p align="left">
   <!-- Baris 1 -->
-  <a href="#"><img src="unity-white.png" alt="Unity" style="height:80px;"/></a>
-  <a href="#"><img src="csharp.png" alt="C#" style="height:80px;"/></a>
-  <a href="#"><img src="vs-code.png" alt="VS Code" style="height:80px;"/></a>
-  <a href="#"><img src="vs.png" alt="Visual Studio" style="height:80px;"/></a>
-  <a href="#"><img src="github-white.png" alt="GitHub" style="height:80px;"/></a>
-  <a href="#"><img src="html5.png" alt="HTML5" style="height:80px;"/></a>
-  <a href="#"><img src="css3.png" alt="CSS3" style="height:80px;"/></a>
+  <a href="https://unity.com/"><img src="images/unity-white.png" alt="Unity" style="height:80px;"/></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="images/csharp.png" alt="C#" style="height:80px;"/></a>
+  <a href="https://code.visualstudio.com/"><img src="images/vs-code.png" alt="VS Code" style="height:80px;"/></a>
+  <a href="https://visualstudio.microsoft.com/"><img src="images/vs.png" alt="Visual Studio" style="height:80px;"/></a>
+  <a href="https://github.com/"><img src="images/github-white.png" alt="GitHub" style="height:80px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/html5.png" alt="HTML5" style="height:80px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.png" alt="CSS3" style="height:80px;"/></a>
 </p>
 
 <p align="left">
   <!-- Baris 2 -->
-  <a href="#"><img src="js.png" alt="JavaScript" style="height:80px;"/></a>
-  <a href="#"><img src="bootstrap.png" alt="Bootstrap" style="height:80px;"/></a>
-  <a href="#"><img src="tailwind.png" alt="Tailwind" style="height:80px;"/></a>
-  <a href="#"><img src="mongoDB.png" alt="MongoDB" style="height:80px;"/></a>
-  <a href="#"><img src="react.png" alt="React" style="height:80px;"/></a>
-  <a href="#"><img src="node.png" alt="Node.js" style="height:80px;"/></a>
-  <a href="#"><img src="express.png" alt="Express.js" style="height:80px;"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/js.png" alt="JavaScript" style="height:80px;"/></a>
+  <a href="https://getbootstrap.com/"><img src="images/bootstrap.png" alt="Bootstrap" style="height:80px;"/></a>
+  <a href="https://tailwindcss.com/"><img src="images/tailwind.png" alt="Tailwind" style="height:80px;"/></a>
+  <a href="https://www.mongodb.com/"><img src="images/mongoDB.png" alt="MongoDB" style="height:80px;"/></a>
+  <a href="https://expressjs.com/"><img src="images/express.png" alt="Express.js" style="height:80px;"/></a>
+  <a href="https://react.dev/"><img src="images/react.png" alt="React" style="height:80px;"/></a>
+  <a href="https://nodejs.org/"><img src="images/node.png" alt="Node.js" style="height:80px;"/></a>
 </p>
 
 <p align="left">
   <!-- Baris 3 -->
-<!--   <a href="#"><img src="next.png" alt="Next.js" style="height:80px;"/></a> -->
-  <a href="#"><img src="resend-white.png" alt="Resend API" style="height:80px;"/></a>
-  <a href="#"><img src="php.png" alt="PHP" style="height:80px;"/></a>
-  <a href="#"><img src="mysql.png" alt="MySQL" style="height:80px;"/></a>
-  <a href="#"><img src="vercel.png" alt="Vercel" style="height:80px;"/></a>
-  <a href="#"><img src="railway.png" alt="Railway" style="height:80px;"/></a>
-  <a href="#"><img src="phyton.png" alt="Python" style="height:80px;"/></a>
-  <a href="#"><img src="java.png" alt="Java" style="height:80px;"/></a>
+  <a href="https://resend.com/"><img src="images/resend-white.png" alt="Resend API" style="height:80px;"/></a>
+  <a href="https://www.php.net/"><img src="images/php.png" alt="PHP" style="height:80px;"/></a>
+  <a href="https://www.mysql.com/"><img src="images/mysql.png" alt="MySQL" style="height:80px;"/></a>
+  <a href="https://vercel.com/"><img src="images/vercel.png" alt="Vercel" style="height:80px;"/></a>
+  <a href="https://railway.app/"><img src="images/railway.png" alt="Railway" style="height:80px;"/></a>
+  <a href="https://www.python.org/"><img src="images/phyton.png" alt="Python" style="height:80px;"/></a>
+  <a href="https://www.java.com/"><img src="images/java.png" alt="Java" style="height:80px;"/></a>
 </p>
 
 <p align="left">
   <!-- Baris 4 -->
-  <a href="#"><img src="c++.png" alt="C++" style="height:80px;"/></a>
-  <a href="#"><img src="processing.png" alt="Processing" style="height:80px;"/></a>
-  <a href="#"><img src="construct3.png" alt="Construct 3" style="height:80px;"/></a>
-  <a href="#"><img src="notion-white.png" alt="Notion" style="height:80px;"/></a>
-  <a href="#"><img src="trello.png" alt="Trello" style="height:80px;"/></a>
-  <a href="#"><img src="figma.png" alt="Figma" style="height:80px;"/></a>
-  <a href="#"><img src="wordpress.png" alt="WordPress" style="height:80px;"/></a>
+  <a href="https://isocpp.org/"><img src="images/c++.png" alt="C++" style="height:80px;"/></a>
+  <a href="https://processing.org/"><img src="images/processing.png" alt="Processing" style="height:80px;"/></a>
+  <a href="https://www.construct.net/en"><img src="images/construct3.png" alt="Construct 3" style="height:80px;"/></a>
+  <a href="https://www.notion.so/"><img src="images/notion-white.png" alt="Notion" style="height:80px;"/></a>
+  <a href="https://trello.com/"><img src="images/trello.png" alt="Trello" style="height:80px;"/></a>
+  <a href="https://www.figma.com/"><img src="images/figma.png" alt="Figma" style="height:80px;"/></a>
+  <a href="https://wordpress.org/"><img src="images/wordpress.png" alt="WordPress" style="height:80px;"/></a>
 </p>
+
 
 ## Projects:
 
