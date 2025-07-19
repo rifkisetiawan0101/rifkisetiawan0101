@@ -10,7 +10,7 @@ Digital Multimedia Engineering student who specializes in game development (Unit
 
 ## Connect with Me:
 
-View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.vercel.app/) | 
+View my [**Portfolio**](https://rstiawann.vercel.app/) | 
 [**CV**](https://drive.google.com/drive/folders/1nfHXCFGkdqJYGJe5yiUhc_whtMdLuIsx?usp=sharing)
 
 <p align="left">
@@ -107,7 +107,7 @@ View my [**Portfolio**](https://my-web-portfolio-rifkisetiawan0101s-projects.ver
 
 ### Full Stack Developer
 
-- Developed ["My Web Portfolio"](https://github.com/rifkisetiawan0101/my-web-portfolio) (2025), an interactive web-based financial literacy simulation game using MERN Stack.
+- Developed ["My Web Portfolio"](https://github.com/rifkisetiawan0101/my-web-portfolio) (2025), an interactive web-based financial literacy simulation game using MERN Stack. [Portfolio](https://rstiawann.vercel.app/)
 - Developed ["Dompet Sehat Game"](https://github.com/rifkisetiawan0101/Dompet-Sehat-Game) (2025), an interactive web-based financial literacy simulation game using MERN Stack.
 - Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok) (2025), a fourth semester final project in the Web Programming course.
 - ["Temporary Portfolio"](https://github.com/rifkisetiawan0101/Personal-Portfolio) (2024), a third semester final project in the Web Design course.
