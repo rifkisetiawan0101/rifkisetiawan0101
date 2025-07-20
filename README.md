@@ -4,7 +4,7 @@
 
 ---
 
-Digital Multimedia Engineering student who specializes in game development (Unity/C#) and fullstack website development. Experienced in the project development cycle from idea to deployment, proven by the success of being a Top 10 Finalist in the TSA Gamefest 2024 competition. Skilled in implementing gameplay mechanics, designing backend architecture, and collaborating within technical teams to efficiently achieve project goals.
+Digital Multimedia Engineering student who specializes in full-stack website development and game development. Experienced in the project development cycle from idea to deployment, proven by the success of deploying 3 websites and becoming the Top 10 of TSA Game Fest 2024 competition. Skilled in designing backend architecture, managing relational and NoSQL databases, and applying modern development principles to create scalable and efficient applications.
 
 ---
 
