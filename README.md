@@ -1,85 +1,81 @@
-# _Greetings! I'm Rifki Setiawan, a Game Programmer_
+<h1 align="center">Greetings! 👋, I'm Rifki Setiawan</h1>
 
-<img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=EE4B2B&style=flat" alt="Profile Views"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkisetiawan0101&label=Profile%20views&color=818cf8&style=flat" alt="rifkisetiawan0101" /> </p>
+
+<p align="center">Digital Multimedia Engineering student who specializes in full-stack website development and game development. Experienced in the project development cycle from idea to deployment, proven by the success of deploying 3 websites and becoming the Top 10 of TSA Game Fest 2024 competition. Skilled in designing backend architecture, managing relational and NoSQL databases, and applying modern development principles to create scalable and efficient applications.</p>
+
+# 💫 About Me:
+🔭 I’m currently working on Fondness in Riveries
+
+👨‍💻 All of my projects are available at https://rstiawann.vercel.app/
+
+📝 I will regularly write articles on https://rstiawann.vercel.app/devlog
+
+📫 How to reach me rifki.setiawan0101@gmail.com
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rstiawann_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rifki-setiawan0101) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@rstiawann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rifki.setiawan0101@gmail.com) 
+
+### 💻 Tech Stack:
+
+#### Game Development
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Construct 3](https://img.shields.io/badge/Construct_3-000000?style=for-the-badge&logo=construct-3&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-000000?style=for-the-badge&logo=processing&logoColor=white)
+
+#### Languages
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### Frontend & Backend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Databases & BaaS
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D12?style=for-the-badge&logo=railway&logoColor=white)
+![Resend API](https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rifkisetiawan0101&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rifkisetiawan0101&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rifkisetiawan0101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rifkisetiawan0101&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rifkisetiawan0101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-Digital Multimedia Engineering student who specializes in full-stack website development and game development. Experienced in the project development cycle from idea to deployment, proven by the success of deploying 3 websites and becoming the Top 10 of TSA Game Fest 2024 competition. Skilled in designing backend architecture, managing relational and NoSQL databases, and applying modern development principles to create scalable and efficient applications.
-
----
-
-## Connect with Me:
-
-View my [**Portfolio**](https://rstiawann.vercel.app/) | 
-[**CV**](https://drive.google.com/drive/folders/1nfHXCFGkdqJYGJe5yiUhc_whtMdLuIsx?usp=sharing)
-
-<p align="left">
-  <a href="https://linkedin.com/in/rifki-setiawan0101" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/rifkisetiawan0101" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-<!--   <a href="https://www.behance.net/rifkisetiawan3" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/BEHANCE-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
-  </a> -->
-  <a href="https://itch.io/profile/rstiawann" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ITCH.IO-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/rstiawann_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4605F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@rstiawann" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-## Software & Language:
-
-<p align="left">
-  <!-- Baris 1 -->
-  <a href="https://unity.com/"><img src="images/unity-white.png" alt="Unity" style="height:80px;"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="images/csharp.png" alt="C#" style="height:80px;"/></a>
-  <a href="https://code.visualstudio.com/"><img src="images/vs-code.png" alt="VS Code" style="height:80px;"/></a>
-  <a href="https://visualstudio.microsoft.com/"><img src="images/vs.png" alt="Visual Studio" style="height:80px;"/></a>
-  <a href="https://github.com/"><img src="images/github-white.png" alt="GitHub" style="height:80px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/html5.png" alt="HTML5" style="height:80px;"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="images/css3.png" alt="CSS3" style="height:80px;"/></a>
-</p>
-
-<p align="left">
-  <!-- Baris 2 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/js.png" alt="JavaScript" style="height:80px;"/></a>
-  <a href="https://getbootstrap.com/"><img src="images/bootstrap.png" alt="Bootstrap" style="height:80px;"/></a>
-  <a href="https://tailwindcss.com/"><img src="images/tailwind.png" alt="Tailwind" style="height:80px;"/></a>
-  <a href="https://www.mongodb.com/"><img src="images/mongoDB.png" alt="MongoDB" style="height:80px;"/></a>
-  <a href="https://expressjs.com/"><img src="images/express.png" alt="Express.js" style="height:80px;"/></a>
-  <a href="https://react.dev/"><img src="images/react.png" alt="React" style="height:80px;"/></a>
-  <a href="https://nodejs.org/"><img src="images/node.png" alt="Node.js" style="height:80px;"/></a>
-</p>
-
-<p align="left">
-  <!-- Baris 3 -->
-  <a href="https://resend.com/"><img src="images/resend-white.png" alt="Resend API" style="height:80px;"/></a>
-  <a href="https://www.php.net/"><img src="images/php.png" alt="PHP" style="height:80px;"/></a>
-  <a href="https://www.mysql.com/"><img src="images/mysql.png" alt="MySQL" style="height:80px;"/></a>
-  <a href="https://vercel.com/"><img src="images/vercel.png" alt="Vercel" style="height:80px;"/></a>
-  <a href="https://railway.app/"><img src="images/railway.png" alt="Railway" style="height:80px;"/></a>
-  <a href="https://www.python.org/"><img src="images/phyton.png" alt="Python" style="height:80px;"/></a>
-  <a href="https://www.java.com/"><img src="images/java.png" alt="Java" style="height:80px;"/></a>
-</p>
-
-<p align="left">
-  <!-- Baris 4 -->
-  <a href="https://isocpp.org/"><img src="images/c++.png" alt="C++" style="height:80px;"/></a>
-  <a href="https://processing.org/"><img src="images/processing.png" alt="Processing" style="height:80px;"/></a>
-  <a href="https://www.construct.net/en"><img src="images/construct3.png" alt="Construct 3" style="height:80px;"/></a>
-  <a href="https://www.notion.so/"><img src="images/notion-white.png" alt="Notion" style="height:80px;"/></a>
-  <a href="https://trello.com/"><img src="images/trello.png" alt="Trello" style="height:80px;"/></a>
-  <a href="https://www.figma.com/"><img src="images/figma.png" alt="Figma" style="height:80px;"/></a>
-  <a href="https://wordpress.org/"><img src="images/wordpress.png" alt="WordPress" style="height:80px;"/></a>
-</p>
-
+[![](https://visitcount.itsvg.in/api?id=rifkisetiawan0101&icon=2&color=6)](https://visitcount.itsvg.in)
 
 ## Projects:
 
