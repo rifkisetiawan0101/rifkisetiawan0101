@@ -103,8 +103,8 @@
 
 ### Full Stack Developer
 
-- Developed ["LadaHitam Creation - Website & CMS"](https://github.com/rifkisetiawan0101/ladahitamcreation) (2025), a full-stack website and Content Management System (CMS) for an indie game studio, built with Next.js.
-- Developed ["Rifki Setiawan's Portfolio"](https://github.com/rifkisetiawan0101/rstiawann-portfolio) (2025), a personal portfolio website built with Next.js, featuring a blog and dynamic content from a personal CMS. [Portfolio](https://rstiawann.vercel.app/)
+- Developed ["LadaHitam Creation - Website & CMS"](https://github.com/rifkisetiawan0101/ladahitamcreation) (2025), a full-stack website and Content Management System (CMS) for an indie game studio, built with Next.js. [Live](https://www.ladahitam.my.id/)
+- Developed ["Rifki Setiawan's Portfolio"](https://github.com/rifkisetiawan0101/rstiawann-portfolio) (2025), a personal portfolio website built with Next.js, featuring a blog and dynamic content from a personal CMS. [Live](https://rstiawann.vercel.app/)
 - Developed ["My Web Portfolio"](https://github.com/rifkisetiawan0101/my-web-portfolio) (2025), a portfolio built with Create React App.
 - Developed ["Dompet Sehat Game"](https://github.com/rifkisetiawan0101/Dompet-Sehat-Game) (2025), an interactive web-based financial literacy simulation game using MERN Stack.
 - Leading a website team project ["Website Damkar Depok"](https://github.com/rifkisetiawan0101/Website-Damkar-Depok) (2025), a fourth semester final project in the Web Programming course.
