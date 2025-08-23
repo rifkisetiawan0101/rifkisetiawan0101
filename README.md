@@ -81,12 +81,21 @@
 
 ### Game Programmer
 
-- Working on team project ["Fondness in Riveries"](https://ladahitamcreation.itch.io/fondness-in-reveries) (2025), a second project from LadaHitam Creation, which is about a mother who takes care of her son, Arell.
+- Participated on team project ["Trash Issue"](https://ladahitamcreation.itch.io/trash-issue) (2025), a game inspired by the legendary Cat vs Dog rivalry, now with a new twist.
+- Working on team project ["Fondness in Reveries"](https://ladahitamcreation.itch.io/fondness-in-reveries) (2025), a second project from LadaHitam Creation, which is about a mother who takes care of her son, Arell.
 - Participated on team project ["Mystic Market Tycoon"](https://github.com/rifkisetiawan0101/MysticMarketTycoon) (2024), a business simulation game themed around the local vibe of Indonesia's urban ghost market.
 - Participated on team project ["Cikini Ke Gondangdia"](https://github.com/rifkisetiawan0101/Cikini-Ke-Gondangdia) (2024), a casual game made with **Processing and Java** language, combines train driving simulation with parallax scrolling visuals.
 - Participated on team project "Manjad" (2024), a simple yet challenging 2D platformer game made with **Construct 3**, controlling Gebol climb to the top to meet up with his friends.
 
 <p align="left">
+  <!-- Trash Issue -->
+  <a href="https://youtu.be/_RHRycjatj0?si=_h4dFxdavhq8Mr-o" target="_blank">
+    <img src="https://img.youtube.com/vi/_RHRycjatj0/0.jpg" alt="Mystic Market YouTube Video" width="260"/>
+  </a>
+  <!-- Fondness in Reveries -->
+  <a href="https://youtu.be/j_vg7ThkjQE?si=vsuKIHhIzS-BzWJm" target="_blank">
+    <img src="https://img.youtube.com/vi/j_vg7ThkjQE/0.jpg" alt="Mystic Market YouTube Video" width="260"/>
+  </a>
   <!-- Mystic Market -->
   <a href="https://youtu.be/CdgIDbUS7bo?si=EKWbWNgNMICkFkAc" target="_blank">
     <img src="https://img.youtube.com/vi/CdgIDbUS7bo/0.jpg" alt="Mystic Market YouTube Video" width="260"/>
