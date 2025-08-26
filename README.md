@@ -5,7 +5,7 @@
 <p align="center">Digital Multimedia Engineering student who specializes in full-stack website development and game development. Experienced in the project development cycle from idea to deployment, proven by the success of deploying 3 websites and becoming the Top 10 of TSA Game Fest 2024 competition. Skilled in designing backend architecture, managing relational and NoSQL databases, and applying modern development principles to create scalable and efficient applications.</p>
 
 # 💫 About Me:
-🔭 I’m currently working on Fondness in Riveries
+🔭 I’m currently working on [team KMIPN](https://github.com/kmipndamkardepok)
 
 👨‍💻 All of my projects are available at https://rstiawann.vercel.app/
 
