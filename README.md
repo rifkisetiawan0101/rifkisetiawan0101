@@ -5,7 +5,7 @@
 <p align="center">Digital Multimedia Engineering student who specializes in game and full-stack website development. Experienced in the project development cycle from idea to deployment, proven by the success of deploying several game and websites, and also becoming the Top 10 of TSA Game Fest 2024 competition. Skilled in applying modern development principles to create scalable and efficient applications.</p>
 
 # 💫 About Me:
-🔭 I’m currently working on [team KMIPN](https://github.com/kmipndamkardepok)
+🔭 I’m currently working on [Trash Issue](https://ladahitamcreation.itch.io/trash-issue)
 
 👨‍💻 All of my projects are available at https://rstiawann.vercel.app/
 
